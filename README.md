@@ -21,8 +21,9 @@ I'm a cold, bloodless villain who abhors bureaucracy and synthetic work. It occu
 - **Languages:** Python, C++
 - **Frameworks/Libraries:** [React](https://reactjs.org/), [Node.js](https://nodejs.org/)
 - **Databases:** [MySQL](https://www.mysql.com/), [MongoDB](https://www.mongodb.com/), [PostgreSQL](https://www.postgresql.org/)
-- **Tools:** [Git](https://git-scm.com/), [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [AWS](https://aws.amazon.com/), [Azure](https://azure.microsoft.com/)
-- Electrical Engineer
+- **Tools:** [Git](https://git-scm.com/), , [AWS](https://aws.amazon.com/), [Azure](https://azure.microsoft.com/)
+- **Security:** CISSP, CCSP
+- **Electrical Engineer**
 
 ## GitHub Stats
 
@@ -30,7 +31,7 @@ I'm a cold, bloodless villain who abhors bureaucracy and synthetic work. It occu
 
 ## Recent Projects
 
-- [Project 1](https://github.com/martymcwizard/nec2017-analyzer): A tool to make sense of the National Electric Code
+- [NEC 2017 Analyzer](https://github.com/martymcwizard/nec2017-analyzer): A tool to make sense of the National Electric Code
 
 ## Connect with Me
 
